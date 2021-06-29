@@ -2,10 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: "Quicksand";
-    background-color: rgb(47, 153, 240);
+    background-color: rgb(0, 0, 0);
 }
 html{
-    background-color: rgb(47, 153, 240);
+    background-color: rgb(0, 0, 0);
 }
 img {
     width: 100%; 
@@ -24,7 +24,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: rgb(61, 255, 197);
+    color: rgb(255, 255, 255);
     font-weight: bold;
 }
 a:hover {
@@ -35,15 +35,15 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: coral;
     text-align: center;
-    font-size: 165%;
+    font-size: x-large;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: rgb(255, 255, 255);
 }
 footer {
-    border-top: 1px solid #d5d5d500;
+    border-top: 1px solid #ffffff;
     font-size: .8em;
 }
 
