@@ -2,10 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: "Quicksand";
-    background-color: black;
+    background-color: rgb(47, 153, 240);
 }
 html{
-    background-color: black;
+    background-color: rgb(47, 153, 240);
 }
 img {
     width: 100%; 
